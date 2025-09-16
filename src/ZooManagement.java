@@ -23,6 +23,7 @@ public class ZooManagement {
             nbrCages = sc.nextInt();
         }while(nbrCages<=0);
 
+        //instruction 3
         System.out.println(zooName+" comporte "+nbrCages+" cages");
 
     }
